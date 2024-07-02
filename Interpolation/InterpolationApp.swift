@@ -11,7 +11,7 @@ import SwiftUI
 struct InterpolationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LocalDateView()
         }
     }
 }
